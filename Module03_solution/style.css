@@ -1,0 +1,32 @@
+.nav-bgcolor {
+  background-color: #e0b20b;
+}
+
+.brand-colorandsize{
+  color: white;
+  font-size: 2em;
+  font-weight: bolder;
+}
+
+.hamburger-color:active{
+  background-color: white;
+
+}
+
+a.navLink:hover {
+  color: rgb(236, 253, 4);
+  font-weight: 700;
+}
+
+.bordaBottom {
+  border-bottom: 2px solid #e9dfdf;
+}
+
+a.lineRem{
+  text-decoration: none;
+  color: black;
+}
+
+.dish-bColor {
+  background-color: rgb(240, 180, 27);
+}
